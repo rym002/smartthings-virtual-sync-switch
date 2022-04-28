@@ -1,0 +1,14 @@
+name: sync-switch
+components:
+  - id: main
+    capabilities:
+      - id: switch
+        version: 1
+    catagories:
+      - Switch
+  - id: remote
+    capabilities:
+      - id: switch
+        version: 1
+    catagories:
+      - Switch

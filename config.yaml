@@ -1,0 +1,4 @@
+name: Virtual Sync Switch
+packageKey: rym002.virtualsyncswitch
+permissions:
+  discovery: {}

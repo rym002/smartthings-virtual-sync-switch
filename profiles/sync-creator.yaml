@@ -1,0 +1,6 @@
+name: sync-creator
+components:
+  - id: main
+    capabilities:
+      - id: partyvoice23922.createanother
+        version: 1
